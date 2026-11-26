@@ -9,7 +9,6 @@ print("BÀI 2")
 tuoi = 14
 print("Tuổi của tôi là", tuoi)
 print()
-...
 
 # Bài 3
 print("BÀI 3")
