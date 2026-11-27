@@ -199,7 +199,7 @@ def main():
         elif lua_chon == "6":
             lay_het_sach()
         elif lua_chon == "7":
-            print("Thông báo: Bạn đã kết thúc dự án tủ sách của bạn.")
+            print("Thông báo: Bạn đã kết thúc dự án quản lý tủ sách của bạn.")
             break
         else:
             print("Cảnh báo: Lựa chọn của bạn không đúng!\n")
